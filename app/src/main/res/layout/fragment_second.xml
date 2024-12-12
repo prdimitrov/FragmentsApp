@@ -3,22 +3,21 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#019167"
-    tools:context=".FirstFragment">
+    android:background="#EEE8CD"
+    tools:context=".SecondFragment">
 
     <!-- TODO: Update blank fragment layout -->
     <TextView
-        android:id="@+id/text_frag1"
+        android:id="@+id/text_frag2"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="@string/first_fragment"
-        android:textSize="48sp" />
+        android:text="@string/second_fragment"
+        android:textSize="40sp" />
 
     <Button
-        android:id="@+id/btn_frag1"
+        android:id="@+id/btn_frag2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="100dp"
-        android:text="@string/say_hello" />
-
+        android:text="@string/say_goodbye" />
 </FrameLayout>
