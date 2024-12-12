@@ -6,4 +6,7 @@
     <string name="say_hello">Say Hello</string>
     <string name="second_fragment">Second Fragment</string>
     <string name="say_goodbye">Say Goodbye</string>
+    <string name="fragments_app">Fragments App</string>
+    <string name="display_fragmenet_1">Display Fragmenet 1</string>
+    <string name="display_fragmenet_2">Display Fragmenet 2</string>
 </resources>
